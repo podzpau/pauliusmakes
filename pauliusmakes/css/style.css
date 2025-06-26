@@ -1,0 +1,14 @@
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          sans: ['Plus Jakarta Sans', 'sans-serif'],
+        },
+        colors: {
+          primary: '#F43F5E',
+        }
+      }
+    }
+  }
+</script>
